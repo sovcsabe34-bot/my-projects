@@ -1,7 +1,3 @@
-
- j 
-
-
 /* ---------------------------------
          MENU RESPONSIVO
       --------------------------------- */
@@ -327,6 +323,6 @@ if ("IntersectionObserver" in window) {
         observador.observe(secao);
 
     });
- console.log("IntersectionObserver está disponível.");
- alert("IntersectionObserver está disponível.");
+    console.log("IntersectionObserver está disponível.");
+    alert("IntersectionObserver está disponível.");
 }
